@@ -1,2 +1,2 @@
-# Prodigy-Task-3
-Tic tac toe
+# PRODIGY_WD_03
+Tic-Tac-Toe
